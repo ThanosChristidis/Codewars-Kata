@@ -15,13 +15,13 @@ Repository Structure
 There's a folder for each kata nested in its own kyu
 
 ├── 8-kyu/
-│   ├── Super_Ball_Regular_Ball/
+│   ├── Super_Ball_Regular_Ball
 │   │   ├── program.cs
 │   │   
 │   └── ...
 │
 ├── 7-kyu/
-│   ├── Binary Addition/
+│   ├── Binary Addition
 │   │   ├── program.cs
 │   │   
 │   └── ...
